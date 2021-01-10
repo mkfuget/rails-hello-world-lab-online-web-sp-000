@@ -283,3 +283,10 @@ Processing by StaticController#hello_world as HTML
 Completed 200 OK in 436ms (Views: 418.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/hello_world" for 97.126.48.162 at 2021-01-10 04:44:53 +0000
+Processing by StaticController#hello_world as HTML
+  Rendering static/hello_world.erb within layouts/application
+  Rendered static/hello_world.erb within layouts/application (0.6ms)
+Completed 200 OK in 16ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
